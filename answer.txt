@@ -1,0 +1,13 @@
+1. Why are tou interested in Data Science?
+I'm a statistics major student, and I've took several courses about data mining and other statistical packages.
+Though the datamining class I took gave me a breif glimpse about it, I felt it's a really interesting part to study.
+Therefore I registered this course to learn further on data science.
+
+2. What is Data science?
+In my opinion, data science is a kind of scientific approach to data.
+For example, people can handle unarranged, accumulated data by their own with lots of scientific(like digital) tools.
+And then people can make their own decisions from it. I think it is data science.
+
+3. Experience?
+As I said, I'm a statistics major, so I dealt with several data analysis projects.
+In those analysis projects, I handled software tools such as R, SAS etc., but really basic codings.
